@@ -1,0 +1,9 @@
+Package: com.simalary.pharaohswitcher
+Name: Pharaoh
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Bring the iPad app switcher from iOS 11 to other devices
+Maintainer: Simalary
+Author: Simalary
+Section: Tweaks
